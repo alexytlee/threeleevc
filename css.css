@@ -1,0 +1,19 @@
+img {
+    padding-top: 100px;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+.vision {
+    color: #9F473A;
+    font-size: 18px;
+    margin: 5px;
+}
+
+.visioner {
+    color: #000000;
+    font-size: 12px;
+    margin: 5px;
+}
